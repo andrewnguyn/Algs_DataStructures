@@ -1,3 +1,4 @@
+package DataStructures;
 
 public class HashMap<K, V> {
     private Entry<K, V>[] table;
